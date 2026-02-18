@@ -2,7 +2,7 @@
  # 📊 End-to-End Retail Performance & Strategy Dashboard
 
 ## 🔗 Live Interactive Dashboard
-
+https://github.com/RitikJoshiii/End-to-End-Retail-Performance-Dashboard-2011-2014/blob/main/Dashboard/index.html
 
 ## 🛠 Project Lifecycle
 
